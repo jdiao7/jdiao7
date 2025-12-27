@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I’m Joey 👋
 
-<!--
-**jdiao7/jdiao7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Compute Science (with a minor in statistics) student with a strong interest in  **data science/analytics, cloud automation, and business intelligence**.  
+I build projects that turn raw data into **clear insights** and automate real-world workflows.
 
-Here are some ideas to get you started:
+### 🔍 What I’m working on
+- Power BI dashboards for sales and operational analysis  
+- Automating cloud and security reporting with PowerShell  
+- Building a strong analytics-focused project portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tools & Skills
+- **Data:** Power BI, Power Query, Excel, SQL (basic)
+- **Automation:** PowerShell, Microsoft Graph
+- **Cloud:** Azure / Entra ID (fundamentals)
+- **Analytics:** KPI design, trend analysis, data cleaning
+
